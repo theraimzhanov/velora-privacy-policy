@@ -32,6 +32,14 @@ Users can delete their data by contacting support.
 
 ## Contact
 
-Email: [velora.app@gmail.com](mailto:velora.app@gmail.com)
+Email: [raimjanovnursultan@gmail.com](mailto:raimjanovnursultan@gmail.com)
 
 By using this app, you agree to this privacy policy.
+
+## Account Deletion
+
+Users can request deletion of their account and all associated data by sending an email to:
+
+[raimjanovnursultan@gmail.com](mailto:raimjanovnursultan@gmail.com)
+
+We will process deletion requests within a reasonable time.
